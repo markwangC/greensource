@@ -1,2 +1,0 @@
-# greensource
-test
